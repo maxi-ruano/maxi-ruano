@@ -1,6 +1,6 @@
  
-<h1 align = "center"> Hola 👋, soy Maximiliano Ruano </h1>
-<h3 align = "center">     Desarrollador FullStack  </h3>
+<h1 align = "center"> Hi 👋  I'm Maximiliano Ruano </h3>
+<h3 align = "center">     Full Stack Developer </h3>
 
 ![da](https://p4.wallpaperbetter.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 
@@ -15,13 +15,11 @@
 
 
 
-<h3> 👨🏻‍💻  Acerca de mí </h3>
+<h3> 👨🏻‍💻  About me </h3>
 
-- 🤔  Aprendiendo nuevas tecnologías y desarrollando constantemente
-- 🎓 Actualmente estudiando el framework [Nextjs](https://nextjs.org)
-- 💼  Trabajando el frontend de un  proyecto grupal , encargado de la pagina [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
-
-
+- 🤔 Learning new technologies and constantly developing
+- 🎓 Currently studying the framework [Nextjs](https://nextjs.org)
+- 💼  Working the frontend of a group project, in charge of the page [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
 
 
 
@@ -29,7 +27,9 @@
 
 
 
-<h3> 🤝🏻  Conéctate conmigo </h3>
+
+
+<h3> 🤝🏻 Connect with me </h3>
 <p aling="center">
  <img align = "left" alt = "Jugal Bhatt | Gmail" width = "26px" src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> ruanomaxi@gmail.com
 </p>
@@ -49,32 +49,38 @@
 <br>
 <hr>
 
-<h3 > Idiomas y herramientas: </h3>
+<h3 >Languages and tools: </h3>
 <tabla>
   <tbody>
     <tr valign = "top">
-      <td width = "40" align = "center">
+      <td width = "18" align = "center">
         <span>
-        <img height = "40" src = "https://cdn.svgporn.com/logos/html-5.svg"> <td width = "40" align = "center">
+        <img height = "18" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">     <td width = "40" align = "center">
         <span>
-         <img height = "40" src = "https://cdn.svgporn.com/logos/css-3.svg">
-      </td> <td width = "40" align = "center">
+         <img height = "18" src = "https://img.shields.io/badge/-CSS3 -1572B6? Style = flat & logo = css3 & logoColor = white">
+      </td> <td width = "18" align = "center">
+        <span>
+         <img height = "18" src = "https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+      </td> <td width = "18" align = "center">
         <span> </span> 
-         <img height = "40px" src = "https://cdn.svgporn.com/logos/javascript.svg">
-      </td> <td width = "40" align = "center">
+         <img height = "18" src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+      </td> <td width = "18" align = "center">
         <span> <strong>  </strong>
         </span> 
-         <img height = "40px" src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td> </tr> <td width = "40" align = "center">
+         <img height = "18" src = "https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+      </td> </tr> <td width = "18" align = "center">
         <span></span> 
-         <img height = "40" src = "https://cdn.svgporn.com/logos/git-icon.svg">
-      </td> <td width = "40" align = "center">
+         <img height = "18" src = "http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+      </td> <td width = "18" align = "center">
         <span> </span> 
-         <img height = "40" src = "https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td> <td align = "center" width = "">
-<span> <b> <center> </center> </b> </span> 
-<img height = "50" src = "https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
+         <img height = "18" src = "https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+      </td> <td width = "18" align = "center">
+        <span> </span> 
+         <img height = "18" src = "https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+      </td> <td width = "18" align = "center">
+        <span> </span> 
+         <img height = "18" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+      </td> 
 </tr>
      
     
