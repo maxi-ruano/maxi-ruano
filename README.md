@@ -2,7 +2,7 @@
 <h1 align = "center"> Hola 👋, soy Maximiliano Ruano </h1>
 <h3 align = "center">     Desarrollador FullStack  </h3>
 
-![da](https://p4.wallpaperbetter.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg) 
+![da](https://p4.wallpaperbetter.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 
 
 
@@ -22,14 +22,7 @@
 - 💼  Trabajando el frontend de un  proyecto grupal , encargado de la pagina [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
 
 
-### ⚙️ Análisis de GitHub
 
-<p align = "centro">
-<a href="https://github.com/AVS1508">
-  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  
-</a>
-</p>
 
 
 
@@ -37,16 +30,60 @@
 
 
 <h3> 🤝🏻  Conéctate conmigo </h3>
+<p aling="center">
+ <img align = "left" alt = "Jugal Bhatt | Gmail" width = "26px" src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /> ruanomaxi@gmail.com
+</p>
+ 
+ 
+
+
 
 <p align = "centro">
+ <a href="https://www.linkedin.com/in/maximiliano-ruano/">
+    <img align = "left" alt = "Jugal Bhatt | Linkedin" width = "24px" src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+ 
 
 
 </p>
+<br>
+<hr>
+
+<h3 > Idiomas y herramientas: </h3>
+<tabla>
+  <tbody>
+    <tr valign = "top">
+      <td width = "40" align = "center">
+        <span>
+        <img height = "40" src = "https://cdn.svgporn.com/logos/html-5.svg"> <td width = "40" align = "center">
+        <span>
+         <img height = "40" src = "https://cdn.svgporn.com/logos/css-3.svg">
+      </td> <td width = "40" align = "center">
+        <span> </span> 
+         <img height = "40px" src = "https://cdn.svgporn.com/logos/javascript.svg">
+      </td> <td width = "40" align = "center">
+        <span> <strong>  </strong>
+        </span> 
+         <img height = "40px" src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td> </tr> <td width = "40" align = "center">
+        <span></span> 
+         <img height = "40" src = "https://cdn.svgporn.com/logos/git-icon.svg">
+      </td> <td width = "40" align = "center">
+        <span> </span> 
+         <img height = "40" src = "https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td> <td align = "center" width = "">
+<span> <b> <center> </center> </b> </span> 
+<img height = "50" src = "https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+     
+    
+  </tbody>
+</table>
+<hr>
 
 
 
 
 
-<h3 align = "left"> Idiomas y herramientas: </h3>
-<p align = "left">  </a> <a href = "https://www.w3.org/html/" target = "_ blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /> 
+
