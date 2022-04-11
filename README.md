@@ -19,7 +19,7 @@
 
 - 🤔 Learning new technologies and constantly developing
 - 🎓 Currently studying the framework [Laravel](https://laravel.com/)
-- 💼  Working the frontend of a group project, in charge of the page [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
+- 💼 The Last Proyect is a Crud + Dushboard with PHP + Laravel + Mysql [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
 
 
 
