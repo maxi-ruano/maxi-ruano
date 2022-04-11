@@ -17,7 +17,7 @@
 
 <h3> 👨🏻‍💻  About me </h3>
 
-- 🤔 Learning new technologies and constantly developing
+- 🤔 Learning  technologies and constantly developing
 - 🎓 Currently studying the framework [Laravel](https://laravel.com/)
 - 💼 The Last Proyect is a Crud + Dushboard with PHP + Laravel + Mysql [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
 
@@ -79,7 +79,7 @@
          <img height = "18" src = "https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
       </td> <td width = "18" align = "center">
         <span> </span> 
-         <img height = "18" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+         <img height = "18" src = "https://img.shields.io/badge/-Laravel-563D7C?style=flat&logo=bootstrap&logoColor=white">
       </td> 
 </tr>
      
