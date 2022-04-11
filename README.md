@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻  About me </h3>
 
 - 🤔 Learning new technologies and constantly developing
-- 🎓 Currently studying the framework [Nextjs](https://nextjs.org)
+- 🎓 Currently studying the framework [Laravel](https://laravel.com/)
 - 💼  Working the frontend of a group project, in charge of the page [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
 
 
