@@ -79,7 +79,10 @@
          <img height = "18" src = "https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
       </td> <td width = "18" align = "center">
         <span> </span> 
-         <img height = "18" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=laravel&logoColor=white">
+       <img height = "18" src = "https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=laravel&logoColor=00c9gg">
+      </td> <td width = "18" align = "center">
+        <span> </span> 
+         <img height = "18" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
       </td> 
 </tr>
      
