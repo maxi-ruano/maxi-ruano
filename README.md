@@ -19,7 +19,7 @@
 
 - 🤔 Learning  technologies and constantly developing
 - 🎓 Currently studying the framework [Laravel](https://laravel.com/)
-- 💼 The Last Proyect is a Crud + Dushboard with PHP + Laravel + Mysql for "Gobierno De la Ciudad" [Inventory Crud](https://github.com/maxi-ruano/Inventario-_Gobierno_de_la_ciudad)
+- 💼 Latest project for the city government " Crud + Dushboard with PHP + Laravel + MySql----> [Inventory Crud](https://github.com/maxi-ruano/Inventario-_Gobierno_de_la_ciudad)
 
 
 
