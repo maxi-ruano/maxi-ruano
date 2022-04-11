@@ -19,7 +19,7 @@
 
 - 🤔 Learning  technologies and constantly developing
 - 🎓 Currently studying the framework [Laravel](https://laravel.com/)
-- 💼 The Last Proyect is a Crud + Dushboard with PHP + Laravel + Mysql [Aboutus](https://github.com/No-Country/Cohorte-1-G10)
+- 💼 The Last Proyect is a Crud + Dushboard with PHP + Laravel + Mysql [Crud Inventario](https://github.com/maxi-ruano/Inventario-_Gobierno_de_la_ciudad)
 
 
 
