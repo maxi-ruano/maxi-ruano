@@ -57,7 +57,7 @@
         <span>
         <img height = "18" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">     <td width = "40" align = "center">
         <span>
-         <img height = "18" src = "https://img.shields.io/badge/-CSS3 -1572B6? Style = flat & logo = css3 & logoColor = white">
+         <img height = "18" src = "https://img.shields.io/badge/-CSS -1572B6? Style = flat & logo = css & logoColor = white">
       </td> <td width = "18" align = "center">
         <span>
          <img height = "18" src = "https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
