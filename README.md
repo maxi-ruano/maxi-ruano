@@ -81,6 +81,10 @@
         <span> </span> 
          <img height = "18" src = "http://img.shields.io/badge/-Laravel-F1502F?style=flat&logo=laravel&logoColor=FFFFFF">
       </td> <td width = "18" align = "center">
+       <span> </span> 
+       <img height = "18" src = "http://img.shields.io/badge/-PHP-F1502F?style=flat&logo=php&logoColor=FFFFFF">
+      </td> <td width = "18" align = "center">
+       <span> </span> 
          <img height = "18" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
       </td> 
 </tr>
