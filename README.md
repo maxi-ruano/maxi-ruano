@@ -19,7 +19,7 @@
 
 - 🤔 Learning  technologies and constantly developing
 - 🎓 Currently studying the framework [Laravel](https://laravel.com/)
-- 💼 Latest project for The City Government " Crud + Dushboard with PHP + Laravel + MySql  [Inventory Crud](https://github.com/maxi-ruano/Inventario-_Gobierno_de_la_ciudad)
+- 💼 My Last Proyect of React (API)->  [Movies-Info-App](https://github.com/maxi-ruano/Movies-Info)
 
 
 
