@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻  About me </h3>
 
 - 🤔 Learning  technologies and constantly developing
-- 🎓 Currently studying the framework [Laravel](https://laravel.com/)
+- 🎓 Currently studying the framework [React](https://reactjs.org//)
 - 💼 My Last Proyect of React (API)->  [Movies-Info-App](https://github.com/maxi-ruano/Movies-Info)
 
 
