@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻  About me </h3>
 
 - 🤔 Learning  technologies and constantly developing
-- 🎓 Currently studying the framework [AWS](https://www.amazon.com/)
+- 🎓 Currently studying  [AWS](https://www.amazon.com/)
 
 
 
