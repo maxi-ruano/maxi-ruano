@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻  About me </h3>
 
 - 🤔 Learning  technologies and constantly developing
-- 🎓 Currently studying  [REACT](https://react.dev/)
+- 🎓 Currently studying  [AWS](https://aws.amazon.com/es/free/?trk=07442992-6a17-42aa-b824-8520367e88c6&sc_channel=ps&s_kwcid=AL!4422!10!71331048780506!71331572045107&ef_id=53c7557797ab1047ec3c30b5a033d0a8:G:s&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
 
 
