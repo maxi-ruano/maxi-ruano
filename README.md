@@ -84,9 +84,8 @@
          <img height = "18" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
       </td> <td width = "18" align = "center">
        <span> </span> 
-       <img height = "18" src = "https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=00c8ff">
-      </td> </tr> <td width = "18" align = "center">
-        <span></span>
+       
+      
      
 </tr>
      
