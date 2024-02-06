@@ -39,7 +39,7 @@
 
 
 <p align = "centro">
- <a href="https://www.linkedin.com/in/maximiliano-ruano/"> <---- Check my Linkedin 
+ <a href="https://www.linkedin.com/in/maximiliano-ruano-077759268/"> <---- Check my Linkedin 
     <img align = "left" alt = "Jugal Bhatt | Linkedin" width = "24px" src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
  
